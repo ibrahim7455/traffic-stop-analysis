@@ -3,7 +3,7 @@
 - This project involves analyzing traffic stop data patterns, and changes in traffic enforcement over time. The goal is to uncover insights into how and why the number of traffic stops fluctuated, and to evaluate the effectiveness of different enforcement strategies.
 
 ## Data and Methodology
-- Data Collection: Data on traffic stops, including the number of stops, dates, locations, and types of violations, was collected for the period from 2005 to 2012.
+- Data Collection: Data on traffic stops, including the number of stops, dates, locations, and types of violations
 - Data Cleaning: The data was cleaned to address missing values, inaccuracies, and inconsistencies.
 - Exploratory Data Analysis: Initial analysis involved creating descriptive statistics, tables, and visualizations to identify general trends and patterns.
 - Trend Analysis: Time series analysis was performed to visualize changes in traffic stops over time, focusing on notable increases in late 2005 and early 2012, and periods of fluctuation.
