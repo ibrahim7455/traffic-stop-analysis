@@ -22,6 +22,8 @@
 
 ## Interactive Visualizations
 - Interactive charts and visualizations were created to provide a more engaging and detailed exploration of traffic stop data. These visualizations are hosted on a web page for easier access and interaction.
+## And this is the link of web page 
+http://127.0.0.1:8050/
 
 ## Repository Contents
 - Data: [Data files and sources]
